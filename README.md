@@ -29,19 +29,7 @@ Prepararemos un entorno con python 3.7.7, Tensorflow 2.1.0 y keras 2.3.1
 ## Prueba en Jupyter notebook
 
     $ cd samples
-    $ jupyter notebook
-    
-## Prueba en consola con imagenes y en video
-
-### Con imágenes
-
-    $ cd samples
-    $ python imagemask.py
-    
-### En video
-
-    $ cd samples
-    $ python videomask.py
+    $ jupyter notebook  
     
 # Entrenamiento con custom-dataset
 -   Etiquetar el data set con la herramienta [VIAv1.0](http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.0.html) (Hacerlo con la versión 1.0.0)
