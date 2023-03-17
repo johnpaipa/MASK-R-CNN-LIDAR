@@ -68,6 +68,9 @@ Prepararemos un entorno con python 3.7.7, Tensorflow 2.1.0 y keras 2.3.1
 ## IoU Intersection over Union
 
 -   IoUTest.ipynb
+## Prueba con dataset de imagenes de validacion
+-   testImages.ipynb
+-   IoUTest.ipynb ( al final del archivo se encuentra una validacion  en video en tiempo real, el modelo no esta entrenado para procesar imagenes en formato RGB pero aun asi logra detectar algo y segementar, el programa esta adaptado y entrenado para reconocimiento de imagenes adquiridas a partir de la nube de puntos de un LIDAR)
  
 # Agradecimientos
 
